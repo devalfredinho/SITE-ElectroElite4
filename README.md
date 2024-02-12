@@ -1,6 +1,5 @@
 ## Descrição
-O Site ElectroElite4 é um projeto desenvolvido por meu grupo do 2º período do curso de TSI. Composta por Albert, Euller e Isac, a equipe criou um site voltado para a venda de produtos eletrônicos de alta qualidade, inspirado na estética minimalista do site da Apple.
-Nosso projeto recebeu nota máxima na matéria de Desenvolvimento WEB Front-End.
+O Site ElectroElite4 é um projeto desenvolvido por meu grupo do 2º período do curso de TSI. Composta por Eu, Albert, Euller e Isac, nossa equipe criou um site voltado para a venda de produtos eletrônicos de alta qualidade, inspirado na estética minimalista do site da Apple. Nosso projeto recebeu nota máxima na matéria de Desenvolvimento WEB Front-End.
 
 ## Funcionalidades
 - Venda de Produtos Eletrônicos: O site oferece uma variedade de produtos eletrônicos de alta qualidade.
